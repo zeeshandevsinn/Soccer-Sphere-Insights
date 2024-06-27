@@ -1,5 +1,4 @@
-import 'package:app4_6_8/new_road_map/splash_screen.dart';
-import 'package:app4_6_8/utils/bottom_navigation_bar.dart';
+import 'package:app4_6_8/app_model/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
